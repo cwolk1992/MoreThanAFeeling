@@ -49,7 +49,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 #uploading pickled csv that contains lyrics, lyrics with bigrams and bigrams
 
-df = pd.read_pickle("Pickled/cleaned4.pkl")
+df = pd.read_csv("out.csv")
 
 
 
