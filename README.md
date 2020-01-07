@@ -20,11 +20,6 @@ After cleaning and normalizing the text for each track I explored the corpus for
 ![ngram freq chart](Readme_Images/ngrams.png)
 
 
-readmeimage1
-readmeimage2
-readmeimage3
-readmeimage4
-
 ## Sentiment Analysis: 
 I analyzed n-grams with NLTK and replaced text in lyrics with bi and tri-grams that occured in corpus. I then performed sentiment analysis on all lyrics using VADER and added those results to the dataframe. This score was used to filter out results within a sentiment score threshold in order to keep inputted text sentiment and lyric sentiment within a relevant range and avoid, for example a very sad inputed text having the result be a very happy song. 
 
