@@ -10,6 +10,9 @@ To gather the tracks in the dataframe, I gathered tracks from 83 Spotify playlis
 ## Exploring the Corpus:
 After cleaning and normalizing the text for each track I explored the corpus for most frequent words as well as bi-grams and tri-grams:
 
+![frequency pre cleaning]
+(https://octodex.github.com/Readme Images/Screen Shot 2020-01-07 at 1.11.38 PM.png)
+
 readmeimage1
 readmeimage2
 readmeimage3
