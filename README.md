@@ -11,10 +11,7 @@ To gather the tracks in the dataframe, I gathered tracks from 83 Spotify playlis
 After cleaning and normalizing the text for each track I explored the corpus for most frequent words as well as bi-grams and tri-grams:
 
 ![wordcloud]
-(https://cwolk1992.github.com/Readme%20Images/pre-clean.png)
-![freq pre cleaning]
-(https://cwolk1992.github.com/Readme%20Images/Screen%20Shot%202020-01-07%20at%201.11.38%20PM.png)
-
+(https://cwolk1992.github.com/Readme_Images/wordcloud.png)
 
 readmeimage1
 readmeimage2
