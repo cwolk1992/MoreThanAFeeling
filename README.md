@@ -1,5 +1,5 @@
 # More Than A Feeling
-a lyric based recommendation engine
+a lyric based recommendation / search engine
 
 ### product demo: https://www.youtube.com/watch?v=KmIz_zC3qGo
 
