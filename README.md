@@ -1,7 +1,7 @@
 # More Than A Feeling
 a lyric based recommendation / search engine
 
-### product demo: https://www.youtube.com/watch?v=KmIz_zC3qGo
+### product demo: https://youtu.be/KmIz_zC3qGo
 
 ## Goal:
 The goal of this project is to create a content recommendation engine for songs where the reccomendations werer based on the text and sentiment of lyrics. This allow users to discover new songs they connect with via inputted text about what they are doing / feeling.
